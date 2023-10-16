@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello There
+General Kenobi!
 
-<!--
-**BorisPhilipp/BorisPhilipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href= "https://github.com/BorisPhilipp">
+  <img height = "190cm" src ="https://github-readme-stats.vercel.app/api?username=BorisPhilipp&show_icons=true&theme=dark&locale=pt-br"/>
+  <img height = "190cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisPhilipp&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
