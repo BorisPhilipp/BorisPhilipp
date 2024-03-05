@@ -15,7 +15,7 @@ General Kenobi!
 
 <div style="display: inline block"><br>
   <p>2024</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     
 </div>
   ##
