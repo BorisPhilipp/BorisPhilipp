@@ -3,8 +3,8 @@ General Kenobi!
 
 <div>
   <a href= "https://github.com/BorisPhilipp">
-  <img height = "190cm" src ="https://github-readme-stats.vercel.app/api?username=BorisPhilipp&show_icons=true&theme=midnight_purple&locale=pt-br"/>
-  <img height = "190cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisPhilipp&theme=midnight_purple"/>
+  <img height = "190cm" src ="https://github-readme-stats.vercel.app/api?username=BorisPhilipp&show_icons=true&theme=midnight-purple&locale=pt-br"/>
+  <img height = "190cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisPhilipp&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline block"><br>
