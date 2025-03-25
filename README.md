@@ -7,7 +7,7 @@ General Kenobi!
   <img height = "190cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisPhilipp&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline block"><br>
   <p>2023</p>
    <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
