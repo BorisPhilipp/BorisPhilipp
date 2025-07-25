@@ -23,7 +23,7 @@ General Kenobi!
 </div>
 
 <div style="display: inline block"><br>
-  <p><strong>2025 Desenvolvimento de Sistemas para Web/Mobile III e IV</strong></p>
+  <p><strong>2025 - Desenvolvimento de Sistemas para Web/Mobile III e IV</strong></p>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
